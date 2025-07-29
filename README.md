@@ -1,5 +1,4 @@
 # coursera-html-css-js
-
 <!DOCTYPE html>
 <html>
 <head>
